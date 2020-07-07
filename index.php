@@ -1,4 +1,4 @@
 <?php
-header("Location: https://setup-online.website/logtel/");
+header("Location: https://setup-your-product.website/logtel/");
 die();
 ?>
